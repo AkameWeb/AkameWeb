@@ -110,4 +110,4 @@
 3. **PHP Backend** - Laravel framework and custom PHP solutions
 4. **Database Design** - SQL optimization and search implementations
 
-<img align="center" width=45% src="./img/mio.gif"><br><br>
+<img align="center" width=45% src="./mio.gif"><br><br>
