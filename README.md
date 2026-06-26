@@ -1,3 +1,8 @@
+<img align="center" src="./img/flowers.png">
+<p align="center">
+  <img src="./img/cat2.gif" alt="cat" width="150">
+</p>
+<div align="center">
 # Hi there, I'm Akame (AkiNo) 🐢
 
 - I'm a young programmer 
@@ -109,9 +114,4 @@
 3. **PHP Backend** - Laravel framework and custom PHP solutions
 4. **Database Design** - SQL optimization and search implementations
 
----
-
-**Followers**: 1 | **Following**: 1  
-**Always open to collaboration and new opportunities!**
-
-*Last profile update: February 2024*
+<img align="center" width=45% src="./img/mio.gif"><br><br>
